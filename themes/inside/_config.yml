@@ -90,7 +90,7 @@ profile:
 
   # You can set Avatar URL directly
   # avatar:
-avatar: avatar.jpg
+  avatar: avatar.jpg
   bio: Design is not what designers create.It was there, and all the designer did was present it.
 
 # Sidebar navigation links
