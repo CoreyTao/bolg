@@ -35,7 +35,7 @@ appearance:
     # Sidebar author font, fallback to `base`
     logo:
     # Sidebar menu font, fallback to `base`
-    menu: Montserrat
+    menu: 'PingFang SC'
     # Font for:
     # - percentage on the fab button
     # - month text on archives page
