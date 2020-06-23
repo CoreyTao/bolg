@@ -95,7 +95,10 @@ profile:
 
 # Sidebar navigation links
 menu:
-  Home: /
+  
+  Life: /
+  Design: /
+  Hobby: /
   # About: /about
   # Links: /links
   # Github: https://github.com/username
