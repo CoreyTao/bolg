@@ -91,7 +91,7 @@ profile:
   # You can set Avatar URL directly
   # avatar:
   avatar: 
-  URL: //https://www.pinterest.jp/pin/335940453459467751
+  URL: https://cdn.jsdelivr.net/gh/CoreyTao/photo2/开幕1.jpg
   bio: Design is not what designers create.It was there, and all the designer did was present it.
 
 # Sidebar navigation links
