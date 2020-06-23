@@ -90,7 +90,7 @@ profile:
 
   # You can set Avatar URL directly
   # avatar:
-
+avatar: avatar.jpg
   bio: Design is not what designers create.It was there, and all the designer did was present it.
 
 # Sidebar navigation links
@@ -241,7 +241,7 @@ assets:
 
 # Table of content, enabled by default, set to `false` to disable.
 toc:
-  # The depth of toc, default to `3`, maximum to `4`.
+  # The de`hpth of toc, default to `3`, maximum to `4`.
   # depth: 3
 
   # Showing index before title, eg. 1.1 title, default to `true`
