@@ -1,5 +1,5 @@
 ---
-title: Isaiah Thomas
+title: Hobby：Isaiah Thomas
 author: Ning Ning
 top: true
 cover: false
